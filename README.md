@@ -1,13 +1,12 @@
 ## Androids-Basics-Udacity-TourGuide
 Project from my Androids Basics Udacity Course
 
-- Book Listing app.
-- Allows user to get a list of the first 20 published books on a given topic
-- Connects to the Google Books API in order to fetch results and displays them
-- Using an AsyncTask
-- Parsing a JSON response
-- Checks for internet connection
-- Using ListView and Adapter to populate a list.
+- Tour Guide app.
+- 15 sites to see in Tokyo Japan
+- (3 Hotels, 3 Restaurants, 2 Museums, 2 Nightclubs, 2 Shopping Centers, 2 Supermarkets, 1 Metro station)
+- App contains custom objects for storing informastion
+- Contains custom adapter
+- Use of Fragments
 
 ### Requirements
 ```
@@ -25,16 +24,22 @@ Project from my Androids Basics Udacity Course
 6. ***If necessary, Install any recommended Tool updates.
 ```
 
-Homepage | Query Results Example
---------- | ----------
-<img src="https://preview.ibb.co/gUCx0w/Screenshot_2017_11_10_09_29_13.png" border="1" width="270px"> | <img src="https://preview.ibb.co/dvhanb/Screenshot_2017_11_10_09_29_33.png" border="1" width="270px">
+Intro Screen | Dashboard | Dashboard Cont...
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/jMuwSb/Screenshot_2017_11_10_09_14_59.png" border="1" width="270px"> | <img src="https://preview.ibb.co/iXS0nb/Screenshot_2017_11_10_09_15_10.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fJAaLw/Screenshot_2017_11_10_09_15_25.png" border="1" width="270px">
 
-### Landscape mode
-<img src="https://preview.ibb.co/cmF6tG/Screenshot_2017_11_10_09_30_31.png" border="1" width="500px">
-
-No Data Message | No Network Connection Message
+Hotels | Hotels Cont... 
 --------- | ----------
-<img src="https://preview.ibb.co/bTjzDG/Screenshot_2017_11_10_09_31_06.png" border="1" width="270px"> | <img src="https://preview.ibb.co/kacx0w/Screenshot_2017_11_10_11_07_05.png" border="1" width="270px">>
+<img src="https://preview.ibb.co/kxhY7b/Screenshot_2017_11_10_09_15_35.png" border="1" width="270px"> | <img src="https://preview.ibb.co/h6ZD7b/Screenshot_2017_11_10_09_15_47.png" border="1" width="270px">
+
+Shopping | Shopping Cont... 
+--------- | ----------
+<img src="https://preview.ibb.co/mDijDG/Screenshot_2017_11_10_09_15_59.png" border="1" width="270px"> | <img src="https://preview.ibb.co/dxQ9fw/Screenshot_2017_11_10_09_16_08.png" border="1" width="270px">
+
+Night Life | Museums | Supermarket
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/mXcSYG/Screenshot_2017_11_10_09_16_20.png" border="1" width="270px"> | <img src="https://preview.ibb.co/eXxuDG/Screenshot_2017_11_10_09_16_33.png" border="1" width="270px"> | <img src="https://preview.ibb.co/eKD1tG/Screenshot_2017_11_10_09_16_42.png" border="1" width="270px">
+
 
 #### Disclaimer
 ```None of the images used in this app belong to me.```
