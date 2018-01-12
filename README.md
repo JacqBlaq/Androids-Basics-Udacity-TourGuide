@@ -1,7 +1,10 @@
 ## Androids-Basics-Udacity-TourGuide
 Project from my Androids Basics Udacity Course
-(Currently refactoring code to be be able to upload on github) 
-So for the meantime email me for file: jacquelyngboyor@gmail.com
+
+file is 94mb
+...Here is link to google drive file
+...<a href="https://drive.google.com/drive/folders/1H9aHaKlnWyCy4Wr05_QirMTX-ZzE1FDr?usp=sharing">Tourguide google drive link</a>
+
 - Tour Guide app.
 - 15 sites to see in Tokyo Japan
 - (3 Hotels, 3 Restaurants, 2 Museums, 2 Nightclubs, 2 Shopping Centers, 2 Supermarkets, 1 Metro station)
